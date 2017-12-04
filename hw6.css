@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 29 , 2017, 10:14:01 PM
+    Author     : xiaoling
+*/
+
+
+.error {
+    color: red;
+    font-weight: normal;
+    font-style: italic;
+}
+
+h1 {
+    margin-left: 5%;
+    text-shadow: 1px 1px grey;
+}
+
+body {
+     min-width: 850px;
+     background-image: url("dot_bgd.jpg");
+     /*https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=r
+     ja&uact=8&ved=0ahUKEwj72YvB4u7XAhVEPN8KHaBeBYkQjRwIBw&url=http%3A%2F%2Fw
+     ww.powerpointhintergrund.com%2Fppt-image%2Fgold-polka-dot-background-12038
+     .html&psig=AOvVaw3y8gDJIqMkFCZuEFomXc92&ust=1512422137478377*/
+}  
+/* body content style modifier; modified mininum width */
+            
+
+h2{
+    margin-left: 5%;
+}
+
+            
+.labels {
+    margin-top: 8pt;
+    margin-bottom: 10.5pt;
+    font-weight: bold;
+}
+/* class labelsstyle modifier; modified margins */
+
+#title {
+    margin-top: 30pt;
+    margin-bottom: 30pt;
+}
+            
+            
+th:first-child {
+    background-color: white;
+}
+            
+th{
+    background-color: #dddddd;
+}
+
+#feature_comparison_1, #feature_comparison_2 {
+    display: none;
+}
